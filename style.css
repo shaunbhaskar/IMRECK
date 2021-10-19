@@ -1,0 +1,11 @@
+body{
+background-image: url("Bck.jpg");
+}
+#head{
+width:500px ;
+height:50px ;
+font-weight: bold;
+}
+.style{
+color: aliceblue;
+}
